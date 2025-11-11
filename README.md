@@ -6,7 +6,7 @@ An educational 3D simulation game developed in Unity, designed to make learning 
 
 ---
 
-https://github.com/user-attachments/assets/015ae943-1cdb-4aa8-8c4c-2d917c86a7ab
+![ezgif-1f386e2b9b0ded9b](https://github.com/user-attachments/assets/e869f12c-c31e-4fbb-9ea5-b4025ba8650b)
 
 
 ## 🔬 About The Project
